@@ -39,9 +39,6 @@ http {
     ...
 }
 
-or
-
-把 notice.conf 内容粘贴到 nginx 默认配置文件适当位置 
 ```
 
 
