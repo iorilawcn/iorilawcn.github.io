@@ -26,7 +26,7 @@
 >
 >3. nginx监听端口，通过include 配置文件方式， 或者根据配置文件自行配置
 >
->
+
 ```
 赋主程序执行权限
 sudo chmod +x dingDingNotification
@@ -38,9 +38,7 @@ http {
     include       /path_to_nginx_conf_dir/notice.conf
     ...
 }
-
 ```
-
 
 ### 修改配置文件
 ```
