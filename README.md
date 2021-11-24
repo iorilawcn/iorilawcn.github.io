@@ -30,9 +30,8 @@
 ```
 赋主程序执行权限
 sudo chmod +x dingDingNotification
-```
 
-```
+
 include 配置文件
 http {
     ...
