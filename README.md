@@ -1,6 +1,6 @@
 ### 下载地址
 >
-> [github](https://raw.githubusercontent.com/IoriLaw/IoriLaw.github.io/main/notice.zip)
+> [github](https://raw.githubusercontent.com/iorilawcn/iorilawcn.github.io/main/notice.zip)
 >
 > or
 >
