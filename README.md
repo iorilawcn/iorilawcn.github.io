@@ -76,7 +76,7 @@ nohup ./dingDingNotification &
 ```
 ps -ef | grep dingDingNotification
 
-然后kill掉， 再启动。
+然后kill -9 pid， 再启动。
 ```
 
 
